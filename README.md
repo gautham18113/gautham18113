@@ -1,4 +1,6 @@
-### Hi there 👋
+### Currenly Working On
+
+[ClickHouse](https://clickhouse.com) in an effort to deepen my understanding of C++ and working on a subject that I am passionate about, big data processing and analytics. This is also my first venture into open source contributions.
 
 <!--
 **gautham18113/gautham18113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
