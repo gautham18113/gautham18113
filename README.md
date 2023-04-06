@@ -2,7 +2,7 @@ Full Stack Software Developer @Amazon
 
 ### Currenly Working On
 
-[ClickHouse](https://clickhouse.com) - an effort to deepen my understanding of C++ and working on a subject that I am passionate about, big data processing and analytics. This is also my first venture into open source contributions.
+[JobRunr](https://clickhouse.com](https://github.com/jobrunr/jobrunr) - an effort to deepen my understanding of distributed job scheduling, big data processing and analytics. 
 
 
 <!--
