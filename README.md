@@ -2,7 +2,7 @@ Full Stack Software Developer @Amazon
 
 ### Currenly Working On
 
-[JobRunr](https://clickhouse.com](https://github.com/jobrunr/jobrunr) - an effort to deepen my understanding of distributed job scheduling, big data processing and analytics. 
+[JobRunr](https://github.com/jobrunr/jobrunr) - an effort to deepen my understanding of distributed job scheduling, big data processing and analytics. 
 
 
 <!--
