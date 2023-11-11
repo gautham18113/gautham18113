@@ -1,9 +1,4 @@
-Full Stack Software Developer @Amazon
-
-### Currenly Working On
-
-[JobRunr](https://github.com/jobrunr/jobrunr) - an effort to deepen my understanding of distributed job scheduling, big data processing and analytics. 
-
+SDE II @Amazon
 
 <!--
 **gautham18113/gautham18113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
