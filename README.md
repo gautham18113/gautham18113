@@ -1,4 +1,6 @@
-SDE II @Amazon
+Quick Introduction: Software Engineer with 7+ years of experience in designing data intensive applications.
+
+Current Role: SDE II @Amazon
 
 Welcome to my profile! Check out more about me on my [page](https://gautham18113.github.io) 
 
