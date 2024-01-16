@@ -4,7 +4,6 @@
 
 💬 Welcome to my profile! Check out more about me on my [page](https://gautham18113.github.io) 
 
-👯 ..or [Let's just play tictactoe](http://gautham18113.github.io/tictactoe) :) 
 <!--
 **gautham18113/gautham18113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
